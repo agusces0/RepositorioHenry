@@ -69,3 +69,13 @@
     border: none;
     border-radius: 2em;
 }
+
+.footer {
+    margin: 0em 5em 0em 5em;
+    padding: 1em 2em 1em 2em;
+    background-color: rgb(225, 225, 225);
+    border: 2px none;
+    border-radius: 1em;
+    display: flex;
+    justify-content: start;
+}
